@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1459343864 source:d:\c\string\basic statistics\main.cpp
+	<cmath>
+	<cstdio>
+	<vector>
+	<iostream>
+	<algorithm>
+
